@@ -1,0 +1,11 @@
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\bin\Debug\New Trabajo.exe.config
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\bin\Debug\New Trabajo.exe
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\bin\Debug\New Trabajo.pdb
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New Trabajo.csproj.AssemblyReference.cache
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New Trabajo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New_Trabajo.Form1.resources
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New_Trabajo.Properties.Resources.resources
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New Trabajo.csproj.GenerateResource.cache
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New Trabajo.exe
+C:\Users\Programador Junior\source\repos\New Trabajo\New Trabajo\obj\Debug\New Trabajo.pdb
